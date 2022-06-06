@@ -10,6 +10,7 @@ const DisplayContainer = styled.div(
     lineHeight: '130px',
     fontSize: '6em',
     flex: '1',
+    color: 'white',
   },
   ({theme}) => ({
     color: theme.displayTextColor,
